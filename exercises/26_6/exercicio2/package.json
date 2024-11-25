@@ -10,7 +10,7 @@
   "author": "Rangel Paolo Cardoso Bomfim <paolorangel1996@outlook.com>",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.20.0",
+    "axios": "^0.21.2",
     "ejs": "^3.1.5",
     "express": "^4.17.1"
   },
